@@ -39,7 +39,7 @@ NO BDD Para executar as features:
 Selecionar o terminal digitar behave e pressionar Enter, ele executará todas as features.
 para selecionar uma feature precisará digita behave -i (nome da feature) e pressionar Enter.
 
-No Page Objects apenas clicar em rodar o teste no un. r
+No Page Objects apenas clicar em rodar o teste no run
 
 EX: behave -i cadastro_usuario.feature
 
