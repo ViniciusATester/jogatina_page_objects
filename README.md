@@ -15,6 +15,8 @@ e o framework utilizado foi o Selenium Webdriver para a execução dos testes we
 
 <https://github.com/ViniciusATester/jogatina_test_web>
 
+<https://github.com/ViniciusATester/jogatina_page_objects>
+
  -Deverá instalar os plugins e fazer importações 
  * Cucumber
  * behave
@@ -32,11 +34,13 @@ como validações de textos, imagens, e campos.
 
 
 
-Para executar as features:
+NO BDD Para executar as features:
 
 Selecionar o terminal digitar behave e pressionar Enter, ele executará todas as features.
 para selecionar uma feature precisará digita behave -i (nome da feature) e pressionar Enter.
- 
+
+No Page Objects apenas clicar em rodar o teste no un. r
+
 EX: behave -i cadastro_usuario.feature
 
 OBS: Foram utilizados alguns pontos como alfinetes que são as esperas forçadas através

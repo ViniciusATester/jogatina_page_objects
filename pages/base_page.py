@@ -31,7 +31,6 @@ class BasePage():
         self.driver.execute_script("window.scrollTo(0,-450)")
 
 
-
     def _aparecer(self, locator, timeout=0):
         if timeout > 0:
             try:
